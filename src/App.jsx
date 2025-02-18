@@ -1,11 +1,10 @@
-
-import Signin from './auth/signin'
+import MainRouter from './router'
 
 function App() {
 
   return (
     <>
-      <Signin />
+      <MainRouter />
     </>
   )
 }
